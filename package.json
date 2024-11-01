@@ -1,0 +1,20 @@
+{
+  "name": "Cracked Minecraft Bot",
+  "version": "1.1.0",
+  "description": "Minecraft Bot with automatic reconnection and scheduled movements",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.4.0",
+    "node-schedule": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/The-PhoneGuy/Cracked-mc-bot-with-anti-afk.git"
+  },
+  "keywords": ["minecraft", "bot", "automation"],
+  "author": "ThePhoneGuy",
+  "license": "MIT"
+}
